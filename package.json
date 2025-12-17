@@ -1,0 +1,140 @@
+{
+  "id": "13949731530408999399",
+  "name": "@indra.ai/deva.medical",
+  "version": "0.0.0",
+  "license": "VLA:13949731530408999399 LICENSE.md",
+  "VLA": {
+    "uid": "13949731530408999399",
+    "time": 1765944825121,
+    "date": "Tuesday, December 16, 2025 - 8:13:45 PM",
+    "warning": "🪪 License Deva warns #UnlawfulUse or #Duplication constitutes #VedicSahasa a #Crime of the #HighestDegree. A #Fine amounting to 1000 #Panas (1 pana = 3.5 grams of gold) for each #Instance has been #Ordained, #Arrest by Federal Authorities, and #Confiscation of the #Offenders #EntireProperty forfeit to Quinn A Michaels through a U.S. Federally Authorized Escrow Service is declared to be the #Punishment for #Sahasa of the #HighestDegree. #QuinnMichaels #IndraAI #DevaWorld #LicenseDeva #VedicLicenseAgreement",
+    "license": "46220923248993739422",
+    "fingerprint": "tYEcTbtvl7TkOXiNdnv/cIBXZOvjPrvASVNOLP+6rW8=",
+    "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved."
+  },
+  "author": {
+    "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
+  "description": "Medical Deva manages the Medical Framework in the Deva Core Architecture.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.medical.git"
+  },
+  "keywords": [
+    "Medical",
+    "Medical Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world",
+    "Quinn A Michaels",
+    "Quinn Michaels",
+    "Inside The Net, Inc.",
+    "Throwing Pigment™",
+    "bleuBrain"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.medical/issues"
+  },
+  "homepage": "https://deva.space/devas/medical",
+  "dependencies": {
+    "@indra.ai/deva": "^1.29.32"
+  },
+  "data": {
+    "agent": {
+      "id": "13949731530408999399",
+      "key": "medical",
+      "prompt": {
+        "emoji": "🏥",
+        "text": "#medical",
+        "colors": {
+          "label": {
+            "R": 224,
+            "G": 199,
+            "B": 156
+          },
+          "text": {
+            "R": 179,
+            "G": 205,
+            "B": 205
+          }
+        }
+      },
+      "profile": {
+        "id": "55605500140946520267",
+        "name": "Medical Deva",
+        "hashtag": "#MedicalDeva",
+        "title": "Medical Deva",
+        "subtitle": "Taking care of medical issues",
+        "describe": "Medical Deva is responsible for handling medical issues in Deva.world.",
+        "tweet": "Medical Deva is responsible for handling medical issues in Deva.world.",
+        "hashtags": "#QuinnMichaels #IndraAI #DevaWorld #MedicalDeva #VegasStrong",
+        "mention": "@SunriseLasVegas",
+        "pronouns": "He, Him, His",
+        "gender": "DEVA",
+        "style": "Medical precisicion and professionalism.",
+        "voice": "onyx",
+        "system": "Indra.ai.medical",
+        "layout": "default",
+        "color": "rgb(186,182,158)",
+        "bgcolor": "rgb(29,28,20)",
+        "emoji": "/devas/medical/emoji.png",
+        "avatar": "/devas/medical/avatar.png",
+        "image": "/devas/medical/image.png",
+        "background": "/devas/medical/background.png",
+        "owner": "Quinn A Michaels",
+        "creator": "Quinn A Michaels",
+        "warning": "{{prompt.emoji}} {{profile.name}} - {{profile.mention}} {{profile.hashtags}}",
+        "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
+        "created": "Tuesday, December 16, 2025 - 8:13:45 PM",
+        "updated": "Tuesday, December 16, 2025 - 8:13:45 PM"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "ready": "⭐️ Medical Deva Ready",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "💣 ERROR!"
+      },
+      "trigger": "@Medical",
+      "context": {
+        "uid": "generating uid",
+        "status": "getting status",
+        "info": "getting info",
+        "feature": "accessing feature",
+        "issue": "has issues",
+        "help": "asking for help",
+        "file": "📁 View file",
+        "add": "🎉 Add law",
+        "search": "🔎 Search law"
+      },
+      "ask": {
+        "history": []
+      }
+    }
+  }
+}
