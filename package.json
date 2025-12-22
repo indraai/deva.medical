@@ -1,7 +1,7 @@
 {
   "id": "13949731530408999399",
   "name": "@indra.ai/deva.medical",
-  "version": "0.0.3",
+  "version": "0.0.0",
   "license": "VLA:13949731530408999399 LICENSE.md",
   "VLA": {
     "uid": "13949731530408999399",
@@ -57,7 +57,7 @@
   },
   "homepage": "https://deva.space/devas/medical",
   "dependencies": {
-    "@indra.ai/deva": "^1.29.32"
+    "@indra.ai/deva": "^1.30.2"
   },
   "data": {
     "agent": {
@@ -103,7 +103,7 @@
         "background": "/devas/medical/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "warning": "{{prompt.emoji}} {{profile.name}} - {{profile.mention}} {{profile.hashtags}}",
+        "warning": "{{prompt.emoji}} {{profile.name}} -  {{profile.mention}} {{profile.hashtags}}",
         "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
         "created": "Tuesday, December 16, 2025 - 8:13:45 PM",
         "updated": "Tuesday, December 16, 2025 - 8:13:45 PM"
@@ -114,7 +114,7 @@
         "init": "🟠 INIT",
         "start": "🔵 START",
         "enter": "🟢 ENTER",
-        "ready": "⭐️ Medical Deva Ready",
+        "ready": "🏥 Medical Deva Ready",
         "stop": "🔴 STOP",
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
