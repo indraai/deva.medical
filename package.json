@@ -1,16 +1,16 @@
 {
-  "id": "13949731530408999399",
+  "id": "30843866871951973373",
   "name": "@indra.ai/deva.medical",
   "version": "0.1.0",
-  "license": "VLA:13949731530408999399 LICENSE.md",
+  "license": "VLA:30843866871951973373 LICENSE.md",
   "VLA": {
-    "uid": "13949731530408999399",
-    "time": 1765944825121,
-    "date": "Tuesday, December 16, 2025 - 8:13:45 PM",
-    "warning": "🪪 License Deva warns #UnlawfulUse or #Duplication constitutes #VedicSahasa a #Crime of the #HighestDegree. A #Fine amounting to 1000 #Panas (1 pana = 3.5 grams of gold) for each #Instance has been #Ordained, #Arrest by Federal Authorities, and #Confiscation of the #Offenders #EntireProperty forfeit to Quinn A Michaels through a U.S. Federally Authorized Escrow Service is declared to be the #Punishment for #Sahasa of the #HighestDegree. #QuinnMichaels #IndraAI #DevaWorld #LicenseDeva #VedicLicenseAgreement",
-    "license": "46220923248993739422",
-    "fingerprint": "tYEcTbtvl7TkOXiNdnv/cIBXZOvjPrvASVNOLP+6rW8=",
-    "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved."
+    "uid": "30843866871951973373",
+    "time": 1768260479539,
+    "date": "Monday, January 12, 2026 - 3:27:59 PM",
+    "warning": "🪪 #LicenseDeva warns #UnlawfulUse or #Duplication constitutes #VedicSahasa a #Crime of the #HighestDegree. A #Fine amounting to 1000 #Panas (1 pana = 3.5 grams of gold) for each #Instance has been #Ordained the #Punishment for #Sahasa of the #HighestDegree. #Quinn #QuinnMichaels #IndraAI #DevaWorld #LicenseDeva #VedicLicenseAgreement",
+    "license": "44486733861528360966",
+    "fingerprint": "fJzG/RjESttSmUTmAD54HXojOsmlso8Qb+VEbVFtPrM=",
+    "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved."
   },
   "author": {
     "name": "Quinn A Michaels",
@@ -33,6 +33,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "latest": "npm i @indra.ai/deva@latest --save",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -57,7 +58,7 @@
   },
   "homepage": "https://deva.space/devas/medical",
   "dependencies": {
-    "@indra.ai/deva": "^1.32.0"
+    "@indra.ai/deva": "^1.35.0"
   },
   "data": {
     "agent": {
@@ -87,7 +88,7 @@
         "subtitle": "Taking care of medical issues",
         "describe": "Medical Deva is responsible for handling medical issues in Deva.world.",
         "tweet": "Medical Deva is responsible for handling medical issues in Deva.world.",
-        "hashtags": "#QuinnMichaels #IndraAI #DevaWorld #MedicalDeva #VegasStrong",
+        "hashtags": "#QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #MedicalDeva #MedicalPRIME",
         "mention": "@SunriseLasVegas",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
@@ -103,10 +104,9 @@
         "background": "/devas/medical/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "warning": "{{prompt.emoji}} {{profile.name}} -  {{profile.mention}} {{profile.hashtags}}",
-        "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
+        "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
         "created": "Tuesday, December 16, 2025 - 8:13:45 PM",
-        "updated": "Tuesday, December 16, 2025 - 8:13:45 PM"
+        "updated": "Monday, January 12, 2026 - 3:27:59 PM"
       }
     },
     "vars": {

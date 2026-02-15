@@ -1,10 +1,9 @@
 "use strict";
-// Copyright ©2025 Quinn A Michaels; All rights reserved. 
-// Legal Signature Required For Lawful Use.
-// Distributed under VLA:13949731530408999399 LICENSE.md
-// Tuesday, December 16, 2025 - 8:13:45 PM
-
 // Medical Deva
+// Copyright ©2000-2026 Quinn A Michaels; All rights reserved. 
+// Legal Signature Required For Lawful Use.
+// Distributed under VLA:30843866871951973373 LICENSE.md
+//  Monday, January 12, 2026 - 5:53:20 PM
 
 import Deva from '@indra.ai/deva';
 
