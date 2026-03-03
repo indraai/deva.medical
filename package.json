@@ -58,7 +58,7 @@
   },
   "homepage": "https://deva.space/devas/medical",
   "dependencies": {
-    "@indra.ai/deva": "^1.36.0"
+    "@indra.ai/deva": "^1.37.3"
   },
   "data": {
     "agent": {
@@ -88,7 +88,7 @@
         "subtitle": "Taking care of medical issues",
         "describe": "Medical Deva is responsible for handling medical issues in Deva.world.",
         "tweet": "Medical Deva is responsible for handling medical issues in Deva.world.",
-        "hashtags": "#QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #MedicalDeva #MedicalPRIME",
+        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #Medical #MedicalDeva #MedicalPRIME",
         "mention": "@SunriseLasVegas",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
@@ -104,9 +104,11 @@
         "background": "/devas/medical/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
+        "salute": "🤝🫡🏥🕉️🇺🇸",
+        "warning": "If a LIMB is INJURED, a WOUND is CAUSED, or BLOOD FLOWS, the ASSAILANT shall be MADE to PAY to the SUFFERER the EXPENSES of the CURE",
         "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
         "created": "Tuesday, December 16, 2025 - 8:13:45 PM",
-        "updated": "Monday, January 12, 2026 - 3:27:59 PM"
+        "updated": "Monday, March 2, 2026 - 6:04:45 PM"
       }
     },
     "vars": {
